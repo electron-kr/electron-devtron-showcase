@@ -1,7 +1,8 @@
 # electron-showcase-devtron
 
-> Show how to use [devtron](https://github.com/electron/devtron)
+![](https://cloud.githubusercontent.com/assets/124117/16405359/028a2ed8-3d42-11e6-9a3c-2c9755271801.png)
 
+> Show how to use [devtron](https://github.com/electron/devtron)
 
 ## Dev
 
