@@ -1,10 +1,10 @@
 {
-  "name": "devtron",
-  "productName": "Devtron",
+  "name": "electron-showcase-devtron",
+  "productName": "ElectronShowcaseForDevtron",
   "version": "0.0.0",
-  "description": "My awe-inspiring app",
+  "description": "Show how to use devtron",
   "license": "MIT",
-  "repository": "ragingwind/devtron",
+  "repository": "electron-kr/electron-showcase-devtron",
   "author": {
     "name": "ragingwind",
     "email": "ragingwind@gmail.com",
@@ -26,7 +26,6 @@
   ],
   "dependencies": {
     "electron-debug": "^1.0.0",
-    "got": "^6.3.0",
     "jquery": "^3.0.0"
   },
   "devDependencies": {

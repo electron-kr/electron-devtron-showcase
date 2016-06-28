@@ -7,7 +7,6 @@ require('electron-debug')({
 	showDevTools: 'left'
 });
 
-
 // prevent window being garbage collected
 let mainWindow;
 
